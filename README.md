@@ -13,11 +13,10 @@ El diseño visual fue realizado en **Canva**, priorizando la simplicidad, accesi
 ### 🖼️ Vistas del diseño
 
 #### 🌙 Modo Oscuro
-![Dark Mode](Portafolio_2.0/Design/DarkMode.jpg)
+![Dark Mode](Design/DarkMode.jpg)
 
 #### ☀️ Modo Claro
-![Light Mode](Portafolio_2.0/Design/LightMode.jpg)
-
+![Light Mode](Design/LightMode.jpg)
 ---
 
 ## 🌈 Paleta de Colores
